@@ -223,6 +223,8 @@ No canal onde você pegou o ID CHANNEL, só é necessário envia link ou titulo 
 
 Imagem da caixa de seleção:
 <img width="590" height="112" alt="image" src="https://github.com/user-attachments/assets/e083c758-909b-421b-a407-d874aac8b3d2" />
+
+---
+
 Imagem do Menu do Bot em uso:
 <img width="953" height="745" alt="image" src="https://github.com/user-attachments/assets/f21aa538-1898-4fed-ab7b-4622ee54301e" />
-
