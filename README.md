@@ -50,9 +50,19 @@ apt install ffmpeg -y
 
 ---
 
-## 🐍 2. Criar ambiente virtual
+## 🐍 2. Criar a pasta do projeto e ambiente virtual
 
-Faça Donwload dos seguintes arquivos: "cogs", "bot.py" e "requirements.txt".
+
+```bash
+mkdir -p botdiscord
+cd botdiscord
+```
+
+⬇️ Faça Donwload dos seguintes arquivos e copie para pasta do projeto: "cogs", "bot.py" e "requirements.txt"
+
+---
+
+📄 Crie o Ambiente Virtual
 
 ```bash
 python3 -m venv venv
