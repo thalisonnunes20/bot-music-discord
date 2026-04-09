@@ -60,6 +60,8 @@ cd Botdiscord
 
 ⬇️ Faça Donwload dos seguintes arquivos e copie para pasta do projeto: "cogs", "bot.py" e "requirements.txt"
 
+---
+
 ⚠️ Aviso: Caso queria personalizar o status jogando do bot no discord, pode alterar a linha do bot.py onde encontra-se "Use Chat 🔫∫comandos", altere para mensagem desejada, salve e reinicie o bot em caso de uso.
 
 Foto demonstrativa:
