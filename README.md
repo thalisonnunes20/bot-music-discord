@@ -62,9 +62,9 @@ cd Botdiscord
 
 ---
 
-⚠️ Aviso: Caso queria personalizar o status jogando do bot no discord, pode alterar a linha do bot.py onde encontra-se "Use Chat 🔫∫comandos", altere para mensagem desejada, salve e reinicie o bot em caso de uso.
+<b> ⚠️ Aviso: Caso queria personalizar o status jogando do bot no discord, pode alterar a linha do bot.py onde encontra-se "Use Chat 🔫∫comandos", altere para mensagem desejada, salve e reinicie o bot em caso de uso. </b>
 
-Foto demonstrativa:
+🌆 Foto demonstrativa:
 
 <p align="center">
 <img width="229" height="56" alt="image" src="https://github.com/user-attachments/assets/9524a1d8-019d-4d5a-a96d-a82df6864416" />
