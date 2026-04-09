@@ -52,6 +52,8 @@ apt install ffmpeg -y
 
 ## 🐍 2. Criar ambiente virtual
 
+Faça Donwload dos seguintes arquivos: "cogs", "bot.py" e "requirements.txt".
+
 ```bash
 python3 -m venv venv
 source venv/bin/activate
