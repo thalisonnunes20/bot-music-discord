@@ -211,6 +211,8 @@ MUSIC_CHANNEL_ID=123456789
 
 Seu bot estará rodando automaticamente e pronto para tocar músicas 🎵
 
+---
+
 📄 Como usar:
 
 No canal onde você pegou o ID CHANNEL, só é necessário envia link ou titulo do video desejado, caso envie o titulo uma caixa de pesquisa irá se abrir para selecionar a melhor opção para a pesquisa:
@@ -221,10 +223,8 @@ No canal onde você pegou o ID CHANNEL, só é necessário envia link ou titulo 
 
 ---
 
-Imagem da caixa de seleção:
-<img width="590" height="112" alt="image" src="https://github.com/user-attachments/assets/e083c758-909b-421b-a407-d874aac8b3d2" />
+Imagem da caixa de seleção: <img width="590" height="112" alt="image" src="https://github.com/user-attachments/assets/e083c758-909b-421b-a407-d874aac8b3d2" />
 
 ---
 
-Imagem do Menu do Bot em uso:
-<img width="953" height="745" alt="image" src="https://github.com/user-attachments/assets/f21aa538-1898-4fed-ab7b-4622ee54301e" />
+Imagem do Menu do Bot em uso: <img width="953" height="745" alt="image" src="https://github.com/user-attachments/assets/f21aa538-1898-4fed-ab7b-4622ee54301e" />
