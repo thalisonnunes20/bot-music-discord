@@ -214,7 +214,7 @@ Seu bot estará rodando automaticamente e pronto para tocar músicas 🎵
 
 ---
 
-📄 Como usar:
+# 📄 Como usar:
 
 No canal onde você pegou o ID CHANNEL, só é necessário envia link ou titulo do video desejado, caso envie o titulo uma caixa de pesquisa irá se abrir para selecionar a melhor opção para a pesquisa:
 
