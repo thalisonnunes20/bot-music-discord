@@ -54,8 +54,8 @@ apt install ffmpeg -y
 
 
 ```bash
-mkdir -p botdiscord
-cd botdiscord
+mkdir -p Botdiscord
+cd Botdiscord
 ```
 
 ⬇️ Faça Donwload dos seguintes arquivos e copie para pasta do projeto: "cogs", "bot.py" e "requirements.txt"
