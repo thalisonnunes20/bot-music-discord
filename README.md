@@ -219,12 +219,20 @@ No canal onde você pegou o ID CHANNEL, só é necessário envia link ou titulo 
 
 ---
 
-⚠️ (Na primeira vez que for utilizar o bot, o canal ficará vazio, apenas envie o link desejado ou titulo)
+<p align="center">
+  ⚠️ (Na primeira vez que for utilizar o bot, o canal ficará vazio, apenas envie o link desejado ou título)
+</p>
+
+<p align="center">
+  <img width="590" src="https://github.com/user-attachments/assets/e083c758-909b-421b-a407-d874aac8b3d2" />
+</p>
 
 ---
 
-Imagem da caixa de seleção: <img width="590" height="112" alt="image" src="https://github.com/user-attachments/assets/e083c758-909b-421b-a407-d874aac8b3d2" />
+<p align="center">
+  <b>🎛️ Menu do Bot em uso</b>
+</p>
 
----
-
-Imagem do Menu do Bot em uso: <img width="953" height="745" alt="image" src="https://github.com/user-attachments/assets/f21aa538-1898-4fed-ab7b-4622ee54301e" />
+<p align="center">
+  <img width="953" src="https://github.com/user-attachments/assets/f21aa538-1898-4fed-ab7b-4622ee54301e" />
+</p>
