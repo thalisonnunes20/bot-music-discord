@@ -219,8 +219,8 @@ No canal onde você pegou o ID CHANNEL, só é necessário envia link ou titulo 
 
 ---
 
-<p align="center">
-  ⚠️ (Na primeira vez que for utilizar o bot, o canal ficará vazio, apenas envie o link desejado ou título)
+<p align="left">
+  <b> ⚠️ (Na primeira vez que for utilizar o bot, o canal ficará vazio, apenas envie o link desejado ou título) </b>
 </p>
 
 <p align="center">
@@ -229,7 +229,7 @@ No canal onde você pegou o ID CHANNEL, só é necessário envia link ou titulo 
 
 ---
 
-<p align="center">
+<p align="left">
   <b>🎛️ Menu do Bot em uso</b>
 </p>
 
