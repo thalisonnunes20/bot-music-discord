@@ -60,6 +60,10 @@ cd Botdiscord
 
 ⬇️ Faça Donwload dos seguintes arquivos e copie para pasta do projeto: "cogs", "bot.py" e "requirements.txt"
 
+⚠️ Aviso: Caso queria personalizar o status jogando do bot no discord, pode alterar a linha do bot.py onde encontra-se "Use Chat 🔫∫comandos", altere para menssagem desejada, salve e reincie o bot em caso de uso.
+
+<img width="229" height="56" alt="image" src="https://github.com/user-attachments/assets/9524a1d8-019d-4d5a-a96d-a82df6864416" />
+
 ---
 
 📄 Crie o Ambiente Virtual
@@ -202,3 +206,19 @@ MUSIC_CHANNEL_ID=123456789
 ## ✅ Pronto!
 
 Seu bot estará rodando automaticamente e pronto para tocar músicas 🎵
+
+📄 Como usar:
+
+No canal onde você pegou o ID CHANNEL, só é necessário envia link ou titulo do video desejado, caso envie o titulo uma caixa de pesquisa irá se abrir para selecionar a melhor opção para a pesquisa:
+
+---
+
+⚠️ (Na primeira vez que for utilizar o bot, o canal ficará vazio, apenas envie o link desejado ou titulo)
+
+---
+
+Imagem da caixa de seleção:
+<img width="590" height="112" alt="image" src="https://github.com/user-attachments/assets/e083c758-909b-421b-a407-d874aac8b3d2" />
+Imagem do Menu do Bot em uso:
+<img width="953" height="745" alt="image" src="https://github.com/user-attachments/assets/f21aa538-1898-4fed-ab7b-4622ee54301e" />
+
